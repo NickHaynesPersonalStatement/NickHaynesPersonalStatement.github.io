@@ -1,44 +1,44 @@
 function whoAmILoad()
 {
-	window.location = "webPages/WhoIAm.html";
+	window.location = "/webPages/WhoIAm.html";
 };
 
 function whyChooseAWebsiteLoad()
 {
-	window.location = "C:/Users/Nick/Documents/WebsiteWorkspace/NickHaynesPersonalStatementSite/webPages/WhyChooseAWebsite.html";
+	window.location = "/webPages/WhyChooseAWebsite.html";
 }
 
 function whyChooseMeLoad()
 {
-	window.location = "C:/Users/Nick/Documents/WebsiteWorkspace/NickHaynesPersonalStatementSite/webPages/WhyChooseMe.html";
+	window.location = "/webPages/WhyChooseMe.html";
 }
 
 function whyIWantToBeAnEngineerLoad()
 {
-	window.location = "C:/Users/Nick/Documents/WebsiteWorkspace/NickHaynesPersonalStatementSite/webPages/WhyIWantToBeAnEngineer.html";
+	window.location = "/webPages/WhyIWantToBeAnEngineer.html";
 }
 
 function plansLoad()
 {
-	window.location = "C:/Users/Nick/Documents/WebsiteWorkspace/NickHaynesPersonalStatementSite/webPages/PostGradPlans.html";
+	window.location = "/webPages/PostGradPlans.html";
 }
 
 function acomplishmentsLoad()
 {
-	window.location = "C:/Users/Nick/Documents/WebsiteWorkspace/NickHaynesPersonalStatementSite/webPages/Acomplishments.html";
+	window.location = "/webPages/Acomplishments.html";
 }
 
 function involvementLoad()
 {
-	window.location = "C:/Users/Nick/Documents/WebsiteWorkspace/NickHaynesPersonalStatementSite/webPages/Involvement.html";
+	window.location = "/webPages/Involvement.html";
 }
 
 function thankYouLoad()
 {
-	window.location = "C:/Users/Nick/Documents/WebsiteWorkspace/NickHaynesPersonalStatementSite/webPages/ThankYou.html";
+	window.location = "/webPages/ThankYou.html";
 }
 
 function backToTheStartLoad()
 {
-	window.location = "C:/Users/Nick/Documents/WebsiteWorkspace/NickHaynesPersonalStatementSite/index.html";
+	window.location = "/index.html";
 }
