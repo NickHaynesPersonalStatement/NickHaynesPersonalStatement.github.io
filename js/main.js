@@ -1,6 +1,6 @@
 function whoAmILoad()
 {
-	window.location = "NickHaynes.github.io/webPages/WhoIAm.html";
+	window.location = "google.com";
 };
 
 function whyChooseAWebsiteLoad()
