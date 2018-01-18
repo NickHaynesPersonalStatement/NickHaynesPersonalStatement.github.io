@@ -1,6 +1,6 @@
 function whoAmILoad()
 {
-	window.location = "google.com";
+	window.location = "webPages/WhoIAm.html";
 };
 
 function whyChooseAWebsiteLoad()
