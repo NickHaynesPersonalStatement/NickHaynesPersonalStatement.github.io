@@ -1,0 +1,58 @@
+html body
+{
+	height: 70vh;
+	background: #E89B31;
+	margin:0;
+
+}
+
+/*The container for the header*/
+#headerContainer
+{
+	position: relative;
+	width:100%;
+	margin-top:25vh;
+	text-align: center;
+}
+
+h1
+{
+	font-size: 14vw;
+}
+
+/*The container for the answer*/
+#aContainer
+{
+	position: relative;
+	width:100%;
+	margin-top: 30%;
+	text-align: center;
+}
+
+p
+{
+	font-size: 2.2vw;
+	letter-spacing: 2px;
+	line-height: 5vh;
+}
+
+
+/*The button container*/
+#buttonContainer
+{
+	position: relative;
+	width: 100%;
+	text-align: center;
+	margin-top: 20%;
+	margin-bottom: 10%;
+
+}
+
+
+button
+{
+	position: relative;
+	background: transparent;
+	border: solid black;
+	font-size: 1vw;
+}

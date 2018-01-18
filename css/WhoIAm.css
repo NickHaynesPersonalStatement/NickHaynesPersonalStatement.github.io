@@ -1,0 +1,66 @@
+/*The Css for WhoIAm.html*/
+html body
+{
+	height: 100%;
+	margin:0;
+}
+/*The container for the header*/
+#headerContainer
+{
+	position: relative;
+	width:100%;
+	margin-top:40vh;
+	text-align: center;
+}
+h1
+{
+	font-size: 15vw;
+}
+
+/*The container for the answer*/
+#aContainer
+{
+	position: relative;
+	width:100%;
+	margin-top: 30%;
+	text-align: center;
+}
+p
+{
+	font-size: 2.2vw;
+	letter-spacing: 2px;
+	line-height: 5vh;
+}
+
+@font-face
+{
+	font-family: "CollegeBlock";
+	src:url(fonts/CollegeBlock.otf);
+}
+
+#collegeFont
+{
+	margin:0;
+	color:red;
+	font-size: 2.2vw;
+	font-family: "CollegeBlock", bold;
+}
+
+/*The button container*/
+#buttonContainer
+{
+	position: relative;
+	width: 100%;
+	text-align: center;
+	margin-top: 20%;
+	margin-bottom: 5%;
+}
+
+button
+{
+	position: relative;
+	background: transparent;
+	border: solid black;
+	font-size: 1vw;
+}
+
