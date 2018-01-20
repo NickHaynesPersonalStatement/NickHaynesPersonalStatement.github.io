@@ -36,6 +36,11 @@ p
 	line-height: 5vh;
 }
 
+#imageContainer
+{
+	width: 100%;
+	text-align: center;
+}
 
 /*The button container*/
 #buttonContainer
